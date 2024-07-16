@@ -1,8 +1,7 @@
 # CodSoft_task3
 # Interactive Calculator using HTML, CSS, and JavaScript
 This project implements a basic interactive calculator using HTML, CSS, and JavaScript. The calculator provides functionality for addition, subtraction, multiplication, and division operations. It utilizes a CSS grid system for button alignments and employs event listeners, if-else statements, operators, and loops to handle user input and perform calculations.
-# Demo
-https://maham1033.github.io/Arithmetic-Calculator/
+# [Demo](https://maham1033.github.io/Arithmetic-Calculator/)
 
 # Features
 Addition, subtraction, multiplication, and division operations.
